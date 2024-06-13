@@ -90,12 +90,13 @@ Clone the repo and use the script you need.
 
 The scripts are compatible with the Linux OS.
 
-### Installation
-
-None
-
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+To run the docker script go the directory, where you saved the project, and run:
+  ```sh
+  ./docker_installation_script.sh
+  ```
 
 
 
