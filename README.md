@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Name: Boris Trifonov
+Name: Boris Trifonov  
 E-Mail: trifonovbobi27@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
