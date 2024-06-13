@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Collection of useful scripts mainly for installation and configuration of different technologies such as:
+Collection of useful scripts for installation and configuration of different technologies such as:
 1. Docker
 
 ### Built With
