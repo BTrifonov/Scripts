@@ -76,9 +76,6 @@
 
 Collection of useful scripts mainly for installation and configuration of different technologies such as:
 1. Docker
-2. ...
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
@@ -86,6 +83,7 @@ Shell scripts
 
 <!-- GETTING STARTED -->
 ## Getting Started
+
 Clone the repo and use the script you need.
 
 ### Prerequisites
@@ -131,22 +129,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Name: Boris Trifonov
+E-Mail: trifonovbobi27@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
